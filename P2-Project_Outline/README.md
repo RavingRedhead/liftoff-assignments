@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+A way to store, organize, display, and provide refill information for prescriptions. The user will be able to add, delete, sort, search, and pull up the contact info of their prescribing doctor, prescription info, and pharmacy. 
+
+All prescriptions will be user-specific tied to a login. The user will be able to pull up any card and see all of the information they would need to refill a prescription or contact their doctor or pharmacist.
+
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Search: Users will be able to search for prescriptions, doctors, and pharmacies.
+Create Prescription Card: Users will be able to create new prescription cards when logged in. New cards will appear in the user’s profile.
+
 ### Technologies
-Include Technologies here
+Java
+html
+MySQL
+Thymeleaf templates
+Spring Boot
+Bootstrap
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Bootstrap
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/SCQaH0Hg/capstone-projecthttps://trello.com/b/SCQaH0Hg/capstone-project
