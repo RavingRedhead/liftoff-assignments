@@ -17,7 +17,7 @@ Search: Users will be able to search for prescriptions, doctors, and pharmacies.
 Create Prescription Card: Users will be able to create new prescription cards when logged in. New cards will appear in the user’s profile.
 
 ### Technologies
-Java
+Java </break>
 html
 MySQL
 Thymeleaf templates
