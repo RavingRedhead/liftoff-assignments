@@ -28,4 +28,4 @@ Bootstrap
 Bootstrap
 
 ### Project Tracker
-https://trello.com/b/SCQaH0Hg/scriptbuddy
+https://trello.com/b/SCQaH0Hg/rxbuddy
