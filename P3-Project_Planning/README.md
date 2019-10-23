@@ -22,4 +22,4 @@ https://trello.com/b/SCQaH0Hg/rxbuddy
 
 ### Project Repo Link
 
-https://github.com/RavingRedhead/Rxbuddy
+https://github.com/RavingRedhead/rxbuddy
