@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-https://github.com/RavingRedhead
- 
+https://github.com/caramweber
+
 ### LinkedIn
-https://www.linkedin.com/in/cara-weber-a304644/
+https://www.linkedin.com/in/cara-m-weber/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
